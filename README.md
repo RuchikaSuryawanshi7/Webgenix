@@ -7,7 +7,8 @@
 *Pranoti*
 *Afsheen*
 
-![](images/home.png)
+<img src="images/home.png">
+
 Our team built Webgenix while participating in the Vodafone Girls in STEM Program, where we learnt HTML, CSS, and Javascript. The website was built in about four hours.
 
 ## Built With
