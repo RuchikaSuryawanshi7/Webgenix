@@ -9,6 +9,7 @@
 
 Our team built Webgenix while participating in the Vodafone Girls in STEM Program, where we learnt HTML, CSS, and Javascript. The website was built in about four hours.
 
+<img src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/logo.png">
 ## Built With
 - HTML
 - CSS
