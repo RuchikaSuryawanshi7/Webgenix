@@ -1,7 +1,7 @@
 # # Webgenix
-**Team Name** - *Webgenix*
-**Team Member's** -
- *Ruchika Suryawanshi*<br>
+**Team Name** - *Webgenix*<hr>
+**Team Member's** - <br>
+*Ruchika Suryawanshi*<br>
 *Sara Shaikh*<br>
 *Vishakha*<br>
 *Pranoti*<br>
