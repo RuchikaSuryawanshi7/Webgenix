@@ -23,10 +23,10 @@ The project also elaborates numerous methodologies for the evaluation and detect
   ---
  
  <p>
-  <img width="560" align='left' src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Black%20White%20Shapes%20and%20Widgets%20YouTube%20Intro%20(2).png">
+  <img width="570" align='left' src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Black%20White%20Shapes%20and%20Widgets%20YouTube%20Intro%20(2).png">
 </p>
  
-### NEED OF SUCH SYSTEM
+### NEED OF SUCH SYSTEM 💫
 
 "FREAK" is predominantly designed to strengthen a person's immune system, which plays a vital role in the pandemic situation of Covid 19, which the world is struggling with. The app strives to improve the physical and mental health of the population to revive the immune system and wellbeing. 
 The best thing which can happen to health is fitness. Physical activity reduces the risk of chronic disease, improves balance and coordination, helps to lose weight, and promotes strong muscles and bones. It boosts respiratory, cardiovascular health, and overall health at the same time. You may reduce body weight along with the risk of fatal diseases like diabetes, heart disease, and some cancers and even expand your sleeping habits and self-esteem.
