@@ -3,7 +3,7 @@
   <a href="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Gradient%20Border%20Meditation%20Mental%20Health%20169%20Video.png"><img width="350" align='right' src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Gradient%20Border%20Meditation%20Mental%20Health%20169%20Video.png"></a>
 </p>
 
-
+## FREAK  - Your AI Fitness Coach
 <p align='center'>
 <a href="https://dev.to/waylonwalker"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
