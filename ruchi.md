@@ -49,6 +49,10 @@ FREAK fitness coach provides its users specific exercise plans and guides them t
 
 **Postnet Classifier to train the Custom Pose Detection.**
  - With the help of a classifier, different poses of exercises are classified which can be trained on different Dataset of exercises resulting in good accuracy.
+ 
+**Google Cloud/ Firebase.**
+- Google Cloud to create and access data and for creating chatbots and
+other ML Models.
 
 
 
@@ -65,9 +69,4 @@ FREAK fitness coach provides its users specific exercise plans and guides them t
  - With the help of a classifier, different poses of exercises are classified which can be trained on different Dataset of exercises resulting in good accuracy.
 
  <a href="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/1.png"><img width="500" align='left' src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/2.png"></a>
-
-
-## Stargazers
-
-[![Stargazers repo roster for @waylonwalker/waylonwalker](https://reporoster.com/stars/waylonwalker/waylonwalker)](https://github.com/waylonwalker/waylonwalker/stargazers)
 
