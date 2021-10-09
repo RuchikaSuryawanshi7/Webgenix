@@ -13,6 +13,8 @@
 
 **INTRODUCTION : FREAK-Your AI Fitness Coach👋**
 
+***APK File:*** 
+
 Where there is a healthy body, there are chances to evolve – the essence of it is to highlight the significance of health and fitness in our lives. Good Healthis very good, However, how many belonging to our race are truly fit and follow a routine? Moreover, analysis of the evidence: about 3/4 of the world'stotal grown-ups never practice anymore and it's shocking to know that one of the world's most important mortality risk factors over a decade is inadequate physical activity.
 
 Over the years Artificial intelligence has served as the heart of the fitness and health industry. AI is the solution you were looking forward to improving your habits and fitness. Advancement in the trends of fitness sectors will aid the development of human reason. This project establishes the idea behind the invention of this system wherein
