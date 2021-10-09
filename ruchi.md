@@ -86,10 +86,22 @@ activities.
 
 **BMI Calculator.**
 - To check Body Mass Index
+
+	
+### Current App:
+As of today, the app contains 29 basic and intermediate yoga asanas.
+intends to differentiate the material according to the goals–such as flexibility, endurance, and muscular strengthening–as well as personal preferences, which will change depending on the mood. The software also analyses a person's speed and adapts itself, making it simpler for the user to fully adapt to yoga.
+
+
+## Technological Challenges:
+Freak uses the neural network, and classic computer vision algorithms, with a 95% accuracy of recognition of asanas, which includes a data set of more than a thousand images. This dataset acts as training for the neural network and therefore is the most important aspect of the app. These representative datasets are hard to create, particularly when it comes to finding several images of people in a particular pose. These images should contain different angles, and because different people in their ordinary lives have performed different yoga poses, it becomes difficult to sync them with the existing systems.
+Along with the representative dataset, another problem faced by the app is the visibility of the body. Now, if a person is standing near a window or bright light, it might be difficult for the camera to catch certain parts of the body or it might blend the body’s outline with a large object behind. So, while using Freak, it is not recommended to keep the camera against bright light or close to a window.
+
 	
 	
 ### Conclusion
 Now we are confident that Fitness exercises are very beneficial to personal health and fitness; however, they can also be ineffective and potentially dangerous if performed incorrectly by the user. Half knowledge is risky and Exercise mistakes are made due to the same reason when the user does not perform the proper form or pose. To overcome such a massive problem we introduce Pose Trainer, an application that detects the user's exercise pose and provides personalized, detailed recommendations on how the user can rectify their form. 
 
-
+## APK File: 
+	
 
