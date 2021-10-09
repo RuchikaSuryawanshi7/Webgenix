@@ -78,7 +78,8 @@ activities.
 **BMI Calculator.**
 - To check Body Mass Index
 
- <a href="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Black%20White%20Shapes%20and%20Widgets%20YouTube%20Intro%20(5).png"><img width="500"  src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Black%20White%20Shapes%20and%20Widgets%20YouTube%20Intro%20(5).png"></a>
+ <p>
+<a href="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Black%20White%20Shapes%20and%20Widgets%20YouTube%20Intro%20(5).png"><img width="500"  src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Black%20White%20Shapes%20and%20Widgets%20YouTube%20Intro%20(5).png"></a>
  
   <a href="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Black%20White%20Shapes%20and%20Widgets%20YouTube%20Intro%20(3).png"><img width="500"  src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Black%20White%20Shapes%20and%20Widgets%20YouTube%20Intro%20(3).png"></a> 
   
@@ -86,3 +87,4 @@ activities.
   
   <a href="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Black%20White%20Shapes%20and%20Widgets%20YouTube%20Intro%20(8).png"><img width="500" align='right' src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Black%20White%20Shapes%20and%20Widgets%20YouTube%20Intro%20(8).png"></a>
 
+</p>
