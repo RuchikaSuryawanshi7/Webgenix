@@ -47,6 +47,15 @@ FREAK fitness coach provides its users specific exercise plans and guides them t
  <a href="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/1.png"><img width="500" align='right' src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/2.png"></a>
 
 </p>
+<p>	
+  <a href="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Black%20White%20Shapes%20and%20Widgets%20YouTube%20Intro%20(3).png"><img width="500"  src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Black%20White%20Shapes%20and%20Widgets%20YouTube%20Intro%20(3).png"></a> 
+</p>
+<p>	
+  <a href="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Black%20White%20Shapes%20and%20Widgets%20YouTube%20Intro%20(3).png"><img width="500"  src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Black%20White%20Shapes%20and%20Widgets%20YouTube%20Intro%20(3).png"></a> 
+</p>
+<p>	
+  <a href="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Black%20White%20Shapes%20and%20Widgets%20YouTube%20Intro%20(3).png"><img width="500"  src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Black%20White%20Shapes%20and%20Widgets%20YouTube%20Intro%20(3).png"></a> 
+</p>
 <p>
 
 ### Pose Detection Model🌱
@@ -68,12 +77,6 @@ interactive voice response systems. The chatbot will help the user to
 interact and to solve their queries.
 
 
-
-
-
-
-## Pose Detection Model🌱
-
 **Google Cloud/ Firebase.**
 - Google Cloud to create and access data and for creating chatbots and
 other ML Models
@@ -85,13 +88,4 @@ activities.
 **BMI Calculator.**
 - To check Body Mass Index
 
- <p>
-<a href="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Black%20White%20Shapes%20and%20Widgets%20YouTube%20Intro%20(5).png"><img width="500"  src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Black%20White%20Shapes%20and%20Widgets%20YouTube%20Intro%20(5).png"></a>
- 
-  <a href="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Black%20White%20Shapes%20and%20Widgets%20YouTube%20Intro%20(3).png"><img width="500"  src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Black%20White%20Shapes%20and%20Widgets%20YouTube%20Intro%20(3).png"></a> 
-  
-  <a href="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Black%20White%20Shapes%20and%20Widgets%20YouTube%20Intro%20(4).png"><img width="500" align='left' src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Black%20White%20Shapes%20and%20Widgets%20YouTube%20Intro%20(4).png"></a> 
-  
-  <a href="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Black%20White%20Shapes%20and%20Widgets%20YouTube%20Intro%20(8).png"><img width="500" align='right' src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Black%20White%20Shapes%20and%20Widgets%20YouTube%20Intro%20(8).png"></a>
 
-</p>
