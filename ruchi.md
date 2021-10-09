@@ -54,6 +54,11 @@ FREAK fitness coach provides its users specific exercise plans and guides them t
 - Google Cloud to create and access data and for creating chatbots and
 other ML Models.
 
+**ChatBot using Google’s DialogueFlow.**
+- Dialogflow is a natural language understanding platform used to design
+and integrate a conversational user interface into mobile apps bots,
+interactive voice response systems. The chatbot will help the user to
+interact and to solve their queries.
 
 
 
