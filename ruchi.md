@@ -50,6 +50,10 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 <details>
  <summary><strong>other favorite posts</strong></summary>
+	 <img width="570" align='left' src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Black%20White%20Shapes%20and%20Widgets%20YouTube%20Intro%20(4).png">
+	 <img width="570" align='left' src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Black%20White%20Shapes%20and%20Widgets%20YouTube%20Intro%20(5).png">
+	 <img width="570" align='left' src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Black%20White%20Shapes%20and%20Widgets%20YouTube%20Intro%20(2).png">
+	 <img width="570" align='left' src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Black%20White%20Shapes%20and%20Widgets%20YouTube%20Intro%20(2).png">
  <a href="https://waylonwalker.com/blog/eight-years-cat/"><img width="400" src="https://images.waylonwalker.com/eight-years-cat-og.png?raw=true"></a>
  <a href="https://waylonwalker.com/blog/what-are-github-actions/"><img width="400" src="https://images.waylonwalker.com/what-are-github-actions-og.png?raw=true"></a>
  
