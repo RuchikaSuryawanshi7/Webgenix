@@ -65,13 +65,18 @@ interact and to solve their queries.
 
 
 
-### Pose Detection Model🌱
+## Pose Detection Model🌱
 
-**Machine Learning Postnet Model by Tensorflow.**
-- It is a Predefined Model by Tensorflow that is a train to detect the body key points of a person’s body, by detecting body parts such as elbows, hips, wrists, knees, and ankles. It uses the joints of these body parts to determine body postures. Postnet Model will help to get key points on the real-time data and help to detect a person's Body.
+**Google Cloud/ Firebase.**
+- Google Cloud to create and access data and for creating chatbots and
+other ML Models
 
-**Postnet Classifier to train the Custom Pose Detection.**
- - With the help of a classifier, different poses of exercises are classified which can be trained on different Dataset of exercises resulting in good accuracy.
+**Immune System Checker.**
+- It will help to generate the health report of a person and to recommend
+activities.
+
+**BMI Calculator.**
+- To check Body Mass Index
 
  <a href="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/1.png"><img width="500" align='left' src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/2.png"></a>
 
