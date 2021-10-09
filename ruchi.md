@@ -42,7 +42,7 @@ FREAK fitness coach provides its users specific exercise plans and guides them t
  <a href="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/1.png"><img width="500" align='right' src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/2.png"></a>
 </p>
 
-### My Digital Garden 🌱
+### Pose Detection Model🌱
 
 **Machine Learning Postnet Model by Tensorflow.**
 - It is a Predefined Model by Tensorflow that is a train to detect the body key points of a person’s body, by detecting body parts such as elbows, hips, wrists, knees, and ankles. It uses the joints of these body parts to determine body postures. Postnet Model will help to get key points on the real-time data and help to detect a person's Body.
