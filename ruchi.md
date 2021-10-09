@@ -54,7 +54,6 @@ FREAK fitness coach provides its users specific exercise plans and guides them t
 
 
 
- <a href="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/1.png"><img width="500" align='right' src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/2.png"></a>
 
 
 ### Pose Detection Model🌱
@@ -64,6 +63,8 @@ FREAK fitness coach provides its users specific exercise plans and guides them t
 
 **Postnet Classifier to train the Custom Pose Detection.**
  - With the help of a classifier, different poses of exercises are classified which can be trained on different Dataset of exercises resulting in good accuracy.
+
+ <a href="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/1.png"><img width="500" align='left' src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/2.png"></a>
 ### <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers
 
 
