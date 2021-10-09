@@ -44,7 +44,12 @@ FREAK fitness coach provides its users specific exercise plans and guides them t
 
 ### My Digital Garden 🌱
 
-I write regular blog posts, most of which you will find on my personal website [waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
+**Machine Learning Postnet Model by Tensorflow.**
+- It is a Predefined Model by Tensorflow that is a train to detect the body key points of a person’s body, by detecting body parts such as elbows, hips, wrists, knees, and ankles. It uses the joints of these body parts to determine body postures. Postnet Model will help to get key points on the real-time data and help to detect a person's Body.
+
+**Postnet Classifier to train the Custom Pose Detection.**
+ - With the help of a classifier, different poses of exercises are classified which can be trained on different Dataset of exercises resulting in good accuracy.
+
 
 I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
 
