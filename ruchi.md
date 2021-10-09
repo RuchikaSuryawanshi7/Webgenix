@@ -1,9 +1,9 @@
 <img width="600" align='left' src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Black%20White%20Shapes%20and%20Widgets%20YouTube%20Intro%20(1).png">
 <p>
   <a href="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Gradient%20Border%20Meditation%20Mental%20Health%20169%20Video.png"><img width="350" align='right' src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Gradient%20Border%20Meditation%20Mental%20Health%20169%20Video.png"></a>
-	<br>
+	
 </p>
-
+<br><br>
 <p align='center'>
 <a href="https://dev.to/waylonwalker"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
