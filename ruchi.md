@@ -12,9 +12,12 @@
 <a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-Hey there 👋,
+INTRODUCTION 👋,
 
-I create blog posts and open source packages mainly about python and data engineering.  I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.  You can see a full list of what I am up to on [waylonwalker.com](waylonwalker.com).  If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/bBdtMQO), give me a shout out [@_waylonwalker](https://twitter.com/_waylonwalker), give some ♥ on [DEV.to/waylonwalker](https://dev.to/waylonwalker), or sign up for my newsletter  at waylonwalker.com/newsletter  I would love to see you join.
+Where there is a healthy body, there are chances to evolve – the essence of it is to highlight the significance of health and fitness in our lives. Good Healthis very good, However, how many belonging to our race are truly fit and follow a routine? Moreover, analysis of the evidence: about 3/4 of the world'stotal grown-ups never practice anymore and it's shocking to know that one of the world's most important mortality risk factors over a decade is inadequate physical activity.
+
+Over the years Artificial intelligence has served as the heart of the fitness and health industry. AI is the solution you were looking forward to improving your habits and fitness. Advancement in the trends of fitness sectors will aid the development of human reason. This project establishes the idea behind the invention of this system wherein
+different methods of machine learning and deep learning are used to detect yoga poses accurately in real-time. The project also elaborates numerous methodologies for the evaluation and detection of poses and utilizes various deep learning models for the classification of postures. FREAK effortlessly tracks the Yoga patterns by giving guidance while doing the exercise and focuses on all aspects of fitness which are a Healthy and nutritious diet, accurate knowledge of the fitness activities, body assessments, and more to the users, It then guides them towards their fitness destinations after processing information obtained. To give precise results, AI and machine learning solutions are connected to smartphones. FREAK seeks to refine the health and intelligence of its consumers.
 
   ---
  
