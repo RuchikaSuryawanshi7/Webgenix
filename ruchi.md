@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-INTRODUCTION : FREAK-Your AI Fitness Coach👋,
+**INTRODUCTION : FREAK-Your AI Fitness Coach👋**
 
 Where there is a healthy body, there are chances to evolve – the essence of it is to highlight the significance of health and fitness in our lives. Good Healthis very good, However, how many belonging to our race are truly fit and follow a routine? Moreover, analysis of the evidence: about 3/4 of the world'stotal grown-ups never practice anymore and it's shocking to know that one of the world's most important mortality risk factors over a decade is inadequate physical activity.
 
