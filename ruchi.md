@@ -37,9 +37,9 @@ FREAK fitness coach provides its users specific exercise plans and guides them t
  ---
 
 <p>
-  <a href="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Black%20White%20Shapes%20and%20Widgets%20YouTube%20Intro%20(4).png"><img width="500" align='right' src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Black%20White%20Shapes%20and%20Widgets%20YouTube%20Intro%20(4).png"></a>
+  <a href="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/1.png"><img width="500" align='right' src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/1.png"></a>
 </p>
- <a href="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Black%20White%20Shapes%20and%20Widgets%20YouTube%20Intro%20(4).png"><img width="500" align='right' src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Black%20White%20Shapes%20and%20Widgets%20YouTube%20Intro%20(4).png"></a>
+ <a href="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/1.png"><img width="500" align='right' src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/1.png"></a>
 </p>
 
 ### My Digital Garden 🌱
