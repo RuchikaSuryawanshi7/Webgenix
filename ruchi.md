@@ -23,7 +23,7 @@ The project also elaborates numerous methodologies for the evaluation and detect
   ---
  
  <p>
-  <img width="250" align='left' src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Black%20White%20Shapes%20and%20Widgets%20YouTube%20Intro%20(2).png">
+  <img width="350" align='left' src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Black%20White%20Shapes%20and%20Widgets%20YouTube%20Intro%20(2).png">
 </p>
  
 ### NEED OF SUCH SYSTEM
