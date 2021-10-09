@@ -26,9 +26,12 @@ The project also elaborates numerous methodologies for the evaluation and detect
   <img width="250" align='left' src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Black%20White%20Shapes%20and%20Widgets%20YouTube%20Intro%20(2).png">
 </p>
  
-### Boy Scout Rule
+### NEED OF SUCH SYSTEM
 
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
+"FREAK" is predominantly designed to strengthen a person's immune system, which plays a vital role in the pandemic situation of Covid 19, which the world is struggling with. The app strives to improve the physical and mental health of the population to revive the immune system and wellbeing. 
+The best thing which can happen to health is fitness. Physical activity reduces the risk of chronic disease, improves balance and coordination, helps to lose weight, and promotes strong muscles and bones. It boosts respiratory, cardiovascular health, and overall health at the same time. You may reduce body weight along with the risk of fatal diseases like diabetes, heart disease, and some cancers and even expand your sleeping habits and self-esteem.
+
+FREAK fitness coach provides its users specific exercise plans and guides them through training to achieve their fitness goals. It uses the front camera of your smartphone to monitor your performance and then make changes to the workout plan. It also delivers audio feedback in real-time. It offers personalized fitness and lifestyle plans. Aaptiv needs to be fed with a few details like eating habits with diet plans, fitness goals, and current fitness level. Freak AI fitness coach's main goal is to get its users active, fit, and healthy. It does this by providing customized fitness training that can be done anywhere, at any time. Freak turns your smartphone into a personal fitness trainer that tracks your workouts using computer vision. Freak, like the other well-known personal trainers, provides real-time audio feedback.
 
  ---
 
